@@ -4,6 +4,7 @@ import CardMe from "./CardMe";
 import hangpic from "../hangmanPic.jpg";
 import budgetPic from "../budget.jpg";
 import shoppingPic from "../shopPic.png";
+import toLi from "../tolis.jpg";
 
 const dataCard = [
   {
@@ -22,6 +23,12 @@ const dataCard = [
     title: "Shopping List",
     desc: "A simple Shopping List App",
     gitLink: "https://github.com/Saitama-sen/shopping-list.git",
+  },
+    {
+    img: toLi,
+    title: "Shopping List",
+    desc: "A simple Todo List App",
+    gitLink: "https://github.com/Saitama-sen/todo-List.git",
   },
 ];
 
